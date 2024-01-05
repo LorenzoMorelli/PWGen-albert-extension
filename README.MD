@@ -1,0 +1,1 @@
+```git clone TODO "~/.local/share/albert/python/plugins/pwgen"```
